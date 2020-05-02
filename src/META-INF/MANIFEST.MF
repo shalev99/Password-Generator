@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.RomTal.java.PassGeneratorDemo
+Class-Path: junit-4.12.jar junit.jar hamcrest-core-1.3.jar log4j-1.2.15.
+ jar derby.jar derby.war derbynet.jar derbyrun.jar derbytools.jar derbyc
+ lient.jar derbyshared.jar derbyLocale_cs.jar derbyLocale_es.jar derbyLo
+ cale_fr.jar derbyLocale_hu.jar derbyLocale_it.jar derbyLocale_pl.jar de
+ rbyLocale_ru.jar derbyLocale_de_DE.jar derbyLocale_ja_JP.jar derbyLocal
+ e_ko_KR.jar derbyLocale_pt_BR.jar derbyLocale_zh_CN.jar derbyLocale_zh_
+ TW.jar derbyoptionaltools.jar
+

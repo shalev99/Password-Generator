@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PasswordGenerator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c5f5e0-08cd-4ea2-85ee-e4cd0eaf8c16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqQq176dviZaMABY06MhA4nMgD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/db-derby-10.15.2.0-bin/log4j-1.2.15.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.RomTal.java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\romfa\Google Drive\Programing\RomFatal DeskTop\Password Generator-20200308T173128Z-001\Password Generator\Tests\com\RomTal\java" />
+      <recent name="C:\Users\romfa\Google Drive\Programing\RomFatal DeskTop\Password Generator-20200308T173128Z-001\Password Generator" />
+      <recent name="C:\Users\romfa\Google Drive\Programing\RomFatal DeskTop\Password Generator-20200308T173128Z-001\Password Generator\src\com\RomTal\java" />
+      <recent name="C:\Users\romfa\IdeaProjects\Password Generator\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PassGeneratorDemo">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.RomTal.java.Main" />
+      <module name="Password Generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassGeneratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.RomTal.java.PassGeneratorDemo" />
+      <module name="Password Generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RomTal.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Password Generator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Password Generator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PassGeneratorDemo" />
+        <item itemvalue="JUnit.All in Password Generator" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c5f5e0-08cd-4ea2-85ee-e4cd0eaf8c16" name="Default Changelist" comment="" />
+      <created>1583667831307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583667831307</updated>
+      <workItem from="1583667833153" duration="126000" />
+      <workItem from="1583668067133" duration="6250000" />
+      <workItem from="1583674360686" duration="546000" />
+      <workItem from="1583674997113" duration="1035000" />
+      <workItem from="1583676203554" duration="1150000" />
+      <workItem from="1583678117174" duration="26000" />
+      <workItem from="1583678873001" duration="4893000" />
+      <workItem from="1583688879236" duration="4984000" />
+      <workItem from="1583741229017" duration="74000" />
+      <workItem from="1583741371790" duration="5140000" />
+      <workItem from="1583776065992" duration="33000" />
+      <workItem from="1583776686994" duration="85000" />
+      <workItem from="1583779878760" duration="830000" />
+      <workItem from="1583856909355" duration="196000" />
+      <workItem from="1583857157134" duration="3000" />
+      <workItem from="1583857193915" duration="2700000" />
+      <workItem from="1583860160712" duration="20000" />
+      <workItem from="1583862249116" duration="95000" />
+      <workItem from="1583862636866" duration="303000" />
+      <workItem from="1583871890071" duration="215000" />
+      <workItem from="1583872140806" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1583857268742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583857268742" />
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583673120458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583673120458" />
+    <state x="222" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583681289753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583681289753" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1583743566675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583743566675" />
+    <state x="250" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583872272672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="250" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583872272672" />
+    <state x="504" y="264" width="404" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583743423811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="504" y="264" width="404" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1583743423811" />
+    <state x="756" y="404" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583668360251" />
+    <state x="226" y="261" key="FileChooserDialogImpl" timestamp="1583776094514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="226" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583776094514" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1583860179649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583859122983" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583860179649" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1583860179649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583859122983" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583860179649" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1583860179649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583859122983" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583860179649" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1583860179649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583859122983" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583860179649" />
+    <state width="1235" height="203" key="GridCell.Tab.1.bottom" timestamp="1583693867860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583693867860" />
+    <state width="1235" height="203" key="GridCell.Tab.1.center" timestamp="1583693867859">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583693867859" />
+    <state width="1235" height="203" key="GridCell.Tab.1.left" timestamp="1583693867859">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583693867859" />
+    <state width="1235" height="203" key="GridCell.Tab.1.right" timestamp="1583693867859">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583693867859" />
+    <state x="0" y="94" key="SettingsEditor" timestamp="1583872281663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583689039950" />
+    <state x="0" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583872281663" />
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583741428502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1583741428502" />
+    <state x="712" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583669733301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583669733301" />
+    <state x="550" y="39" width="930" height="1026" key="dock-window-1" timestamp="1583680458280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="39" width="930" height="1026" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1583680458280" />
+    <state x="1229" y="0" width="707" height="1026" key="dock-window-2" timestamp="1583683535409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1229" y="0" width="707" height="1026" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1583683535409" />
+    <state x="0" y="140" key="new project wizard" timestamp="1583675687723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583675687723" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Password_Generator$All_in_Password_Generator.ic" NAME="All in Password Generator Coverage Results" MODIFIED="1583858890070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
